@@ -7,8 +7,8 @@ A real-time syntax highlighter with a graphical user interface that performs lex
 ## Proje Bağlantıları
 
 - **Demo Video**: [Watch on YouTube](https://youtu.be/F7M2v4AzyqU)
-- **Article**: [Read on Dev.to](https://dev.to/imane9607/sifirdan-gercek-zamanli-sozdizimi-vurgulayicisi-python-ile-gramer-tabanli-kod-editoru-gelistirme-a2i) *(Update with your published article link)*
-- **Interim Report**: [View PDF](docs/Programming%20Languages%20Project%20-%20Interim%20Report%20Form%20(2).pdf)
+- **Article**: [Read on Dev.to](https://dev.to/imane9607/sifirdan-gercek-zamanli-sozdizimi-vurgulayicisi-python-ile-gramer-tabanli-kod-editoru-gelistirme-a2i) 
+- **Interim Report (Proje Ara Raporu)**: [View PDF](docs/Programming%20Languages%20Project%20-%20Interim%20Report%20Form%20(2).pdf)
 
 ## Features
 
@@ -64,7 +64,7 @@ python -m src.main
 
 ## Dokümantasyon
 
-Proje dokümantasyonu ve ara rapor için lütfen [Programlama Dilleri Projesi - Ara Rapor Formu (2).pdf](docs/Programlama%20Dilleri%20Projesi%20-%20Ara%20Rapor%20Formu%20(2).pdf) dosyasını inceleyiniz.
+Proje Ara Raporu için lütfen [Programlama Dilleri Projesi - Ara Rapor Formu (2).pdf](docs/Programlama%20Dilleri%20Projesi%20-%20Ara%20Rapor%20Formu%20(2).pdf) dosyasını inceleyiniz.
 
 ## Lisans
 
