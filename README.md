@@ -43,7 +43,7 @@ A real-time syntax highlighter with a graphical user interface that performs lex
 │   │   └── highlighter.py # Vurgulama kuralları ve uygulama
 │   └── main.py        # Uygulama giriş noktası
 │── tests/             # Test dosyaları
-│── docs/              # Dokümantasyon
+│── docs/              # Proje Ara Raporu
 └── requirements.txt   # Proje bağımlılıkları
 ```
 
