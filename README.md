@@ -6,8 +6,8 @@ A real-time syntax highlighter with a graphical user interface that performs lex
 
 ## Proje Bağlantıları
 
-- **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=WS_rQJAiQrs)
-- **Article**: [Read on Dev.to](https://dev.to/yourusername/real-time-grammar-based-syntax-highlighter-1234) *(Update with your published article link)*
+- **Demo Video**: [Watch on YouTube](https://youtu.be/F7M2v4AzyqU)
+- **Article**: [Read on Dev.to](https://dev.to/imane9607/sifirdan-gercek-zamanli-sozdizimi-vurgulayicisi-python-ile-gramer-tabanli-kod-editoru-gelistirme-a2i) *(Update with your published article link)*
 - **Interim Report**: [View PDF](docs/Programming%20Languages%20Project%20-%20Interim%20Report%20Form%20(2).pdf)
 
 ## Features
