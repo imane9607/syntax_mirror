@@ -1,0 +1,1 @@
+# Highlighter package initialization

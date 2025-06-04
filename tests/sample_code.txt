@@ -1,0 +1,56 @@
+// Single-line comment
+/* Multi-line
+   comment */
+
+// Function with parameters and return
+function sum(int a, int b) {
+    return a + b;  // Math operation
+}
+
+// Class with constructor and method
+class User {
+    string name;
+    
+    User(string n) {
+        this.name = n;
+    }
+    
+    string greet() {
+        return "Hello, " + this.name + "!";
+    }
+}
+
+// Main demo
+function main() {
+    // Variables and literals
+    int count = 5;
+    float pi = 3.14;
+    string text = "Test";
+    bool flag = true;
+    
+    // Control structures
+    if (count > 0 && flag) {
+        for (int i = 0; i < count; i++) {
+            print("Count: " + i);
+        }
+    }
+    
+    // Object usage
+    User user = new User("Alice");
+    string message = user.greet();
+    
+    // Array example
+    int[] numbers = [1, 2, 3, 4, 5];
+    
+    // Error example (unclosed string)
+    // string error = "This will show as error
+    
+    // Calculation with function call
+    int result = calculateFactorial(5);
+    print("Factorial of 5 is: " + result);
+    
+    // Error demonstration (unclosed string)
+    string error = "This string is not closed;
+    
+    return 0;
+} 
